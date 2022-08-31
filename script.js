@@ -2,7 +2,7 @@
 // Typing effect
 //==================
 
-const typeString = ['Hello!', '你好!', 'Hola!', 'Bonjour!'];
+const typeString = ['Python', 'JavaScript', 'ReactJS', 'Django', 'Webpack'];
 let  i = 0;
 let count = 0
 let selectedText = '';
@@ -15,7 +15,7 @@ let text = '';
     };
     selectedText = typeString[count];
     text = selectedText.slice(0, ++i);
-    document.getElementById('greeting').innerHTML = text;
+    document.getElementById('technology').innerHTML = text;
     if (text.length === selectedText.length) {
       count++;
       i = 0;
