@@ -1833,6 +1833,26 @@ input, select, textarea {
 			border: 0;
 		}
 
+		.fa-react:hover {
+			color: #61dbfb;
+		}
+
+		.fa-js:hover {
+			color: #f0db4f;
+		}
+
+		.fa-python:hover {
+			color: #ffe873;
+		}
+
+		.fa-html5:hover {
+			color: #F06529;
+		}
+
+		.fa-css3-alt:hover {
+			color: #2965f1;
+		}
+
 /* Form */
 
 	form label {
