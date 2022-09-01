@@ -2,7 +2,7 @@
 // Typing effect
 //==================
 
-const typeString = ['Python', 'JavaScript', 'ReactJS', 'Django', 'Webpack'];
+const typeString = ['Python', 'JavaScript', 'ReactJS', 'Django', 'PostgreSQL'];
 let  i = 0;
 let count = 0
 let selectedText = '';
