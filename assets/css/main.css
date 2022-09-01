@@ -1853,6 +1853,10 @@ input, select, textarea {
 			color: #2965f1;
 		}
 
+		.fa-database:hover {
+			color: #203452;
+		}
+
 /* Form */
 
 	form label {
